@@ -1,0 +1,8 @@
+[Project]
+name = "IOC-Extractor-Engine"
+version = "0.1.0"
+description = "SOC-style IOC extractor with JSON/CSV reporting"
+requires-python = ">= 3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
